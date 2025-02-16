@@ -11,6 +11,20 @@ In this project, I refactored a simple linked list into a dynamic (doubly) linke
 - **Search:** Finding nodes by their stored value.
 - **Display:** Printing the list and showing each node's previous and next pointers.
 
+## Original Code
+
+The original simple linked list implementation provided by my professor can be found in:
+
+📂 ListaEncadeadaDinamica/
+📄 Projeto(listaencadeadadinamica).c
+
+## Modifications & Improvements
+
+The improved dynamic linked list now includes:
+✅ Doubly Linked List: Each node has both next and prev pointers.
+✅ Memory Safety: Proper dynamic memory allocation and deallocation.
+✅ Flexible Operations: Insert, delete, search, and print functions.
+
 ## Features
 
 - **Dynamic Memory Allocation:** Nodes are created and freed dynamically.
@@ -20,6 +34,7 @@ In this project, I refactored a simple linked list into a dynamic (doubly) linke
 ## Files
 
 - **main.c:** Contains the implementation of the dynamic linked list.
+- **Projeto(listaencadeadadinamica).c** Original professor's code
 - **README.md:** This file, which explains the project.
 
 ## Requirements
