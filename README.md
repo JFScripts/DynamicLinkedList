@@ -15,9 +15,9 @@ In this project, I refactored a simple linked list into a dynamic (doubly) linke
 
 The original simple linked list implementation provided by my professor can be found in:
 
-📂 ListaEncadeadaDinamica/
+📂     DynamicLinkedList/
 
-📄 Projeto(listaencadeadadinamica).c
+   >📄 Projeto(listaencadeadadinamica).c
 
 ## Modifications & Improvements
 
