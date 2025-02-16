@@ -16,13 +16,16 @@ In this project, I refactored a simple linked list into a dynamic (doubly) linke
 The original simple linked list implementation provided by my professor can be found in:
 
 📂 ListaEncadeadaDinamica/
+
 📄 Projeto(listaencadeadadinamica).c
 
 ## Modifications & Improvements
 
 The improved dynamic linked list now includes:
 ✅ Doubly Linked List: Each node has both next and prev pointers.
+
 ✅ Memory Safety: Proper dynamic memory allocation and deallocation.
+
 ✅ Flexible Operations: Insert, delete, search, and print functions.
 
 ## Features
