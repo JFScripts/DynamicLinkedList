@@ -22,6 +22,7 @@ The original simple linked list implementation provided by my professor can be f
 ## Modifications & Improvements
 
 The improved dynamic linked list now includes:
+
 ✅ Doubly Linked List: Each node has both next and prev pointers.
 
 ✅ Memory Safety: Proper dynamic memory allocation and deallocation.
